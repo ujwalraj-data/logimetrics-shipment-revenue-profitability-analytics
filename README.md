@@ -3,6 +3,11 @@
 ## Project Overview
 LogiMetrics is an Excel-based logistics and supply chain analytics project developed to examine shipment operations, transportation performance, delivery status, revenue and profitability. The project uses shipment-level data to identify operational patterns and evaluate key business performance indicators.
 
+## Dashboard Preview
+
+
+![logimetrics-dashboard](./Screenshot%20(378).png)
+
 ## Project Objectives
 - Analyze shipment and delivery performance.
 - Compare revenue and profitability across transportation modes.
